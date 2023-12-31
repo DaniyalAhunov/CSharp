@@ -1,0 +1,15 @@
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.AssemblyInfo.cs
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.csproj.CoreCompileInputs.cache
+/Users/danialahunov/Desktop/C#/Проект/Проект/bin/Debug/net7.0/Проект
+/Users/danialahunov/Desktop/C#/Проект/Проект/bin/Debug/net7.0/Проект.deps.json
+/Users/danialahunov/Desktop/C#/Проект/Проект/bin/Debug/net7.0/Проект.runtimeconfig.json
+/Users/danialahunov/Desktop/C#/Проект/Проект/bin/Debug/net7.0/Проект.dll
+/Users/danialahunov/Desktop/C#/Проект/Проект/bin/Debug/net7.0/Проект.pdb
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.dll
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/refint/Проект.dll
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.pdb
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/Проект.genruntimeconfig.cache
+/Users/danialahunov/Desktop/C#/Проект/Проект/obj/Debug/net7.0/ref/Проект.dll
